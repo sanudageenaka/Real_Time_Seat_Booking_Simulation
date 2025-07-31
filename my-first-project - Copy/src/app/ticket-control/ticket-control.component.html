@@ -1,0 +1,27 @@
+<div class="container">
+    <h2>Ticketing Control</h2>
+  
+    <mat-form-field>
+      <mat-label>Total Tickets</mat-label>
+      <input matInput [(ngModel)]="totalTickets" type="number" />
+    </mat-form-field>
+  
+    <mat-form-field>
+      <mat-label>Ticket Release Rate</mat-label>
+      <input matInput [(ngModel)]="ticketReleaseRate" type="number" />
+    </mat-form-field>
+  
+    <mat-form-field>
+      <mat-label>Customer Retrieval Rate</mat-label>
+      <input matInput [(ngModel)]="customerRetrievalRate" type="number" />
+    </mat-form-field>
+  
+    <mat-form-field>
+      <mat-label>Max Capacity</mat-label>
+      <input matInput [(ngModel)]="maxCapacity" type="number" />
+    </mat-form-field>
+  
+    <button mat-raised-button (click)="startTicketing()">Start Ticketing</button>
+    <button mat-raised-button (click)="stopTicketing()">Stop Ticketing</button>
+  </div>
+  

@@ -1,0 +1,76 @@
+{
+  "hash": "0e4e2c01",
+  "configHash": "df274fd8",
+  "lockfileHash": "1330472c",
+  "browserHash": "d5e2d7a5",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "df56e667",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "883240f9",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "e82533f6",
+      "needsInterop": false
+    },
+    "@angular/material/button": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/button.mjs",
+      "file": "@angular_material_button.js",
+      "fileHash": "d4a86267",
+      "needsInterop": false
+    },
+    "@angular/material/form-field": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/form-field.mjs",
+      "file": "@angular_material_form-field.js",
+      "fileHash": "c6272f5b",
+      "needsInterop": false
+    },
+    "@angular/material/input": {
+      "src": "../../../../../../node_modules/@angular/material/fesm2022/input.mjs",
+      "file": "@angular_material_input.js",
+      "fileHash": "0b2eee80",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c9c7c0a6",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../../../../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "0c26adf3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-QIQRQ3JZ": {
+      "file": "chunk-QIQRQ3JZ.js"
+    },
+    "chunk-HNYG6J2X": {
+      "file": "chunk-HNYG6J2X.js"
+    },
+    "chunk-LIIIRKK2": {
+      "file": "chunk-LIIIRKK2.js"
+    },
+    "chunk-YFXL3ZTP": {
+      "file": "chunk-YFXL3ZTP.js"
+    },
+    "chunk-GE2MGPN6": {
+      "file": "chunk-GE2MGPN6.js"
+    },
+    "chunk-4ULMLRGT": {
+      "file": "chunk-4ULMLRGT.js"
+    }
+  }
+}
